@@ -72,7 +72,6 @@ Ruan Luca | Implementou o FAQ accordion e integração de links sociais
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SafeMesh | Comunicação em Emergências</title>
     <link rel="icon" href="https://img.ge/i/cvngi60.png" type="image/jpeg">
     <link rel="stylesheet" href="style.css">
 </head>
