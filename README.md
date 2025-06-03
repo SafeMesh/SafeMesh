@@ -81,20 +81,4 @@ Ruan Luca | Implementou o FAQ accordion e integração de links sociais
         <div class="header-container">
             <div class="logo">
                 <img src="https://img.ge/i/YPMiY81.png" alt="Logo SafeMesh - Representando comunicação em rede">
-                <h1>SafeMesh</h1>
-            </div>
-            <button class="mobile-menu-toggle" aria-label="Menu mobile">☰</button>
-            <nav>
-                <ul>
-                    <li><a href="#home" class="nav-link active tech-border">Home</a></li>
-                    <li><a href="#solution" class="nav-link tech-border">Solução</a></li>
-                    <li><a href="#strategies" class="nav-link tech-border">Estratégias</a></li>
-                    <li><a href="#preparation" class="nav-link tech-border">Preparação</a></li>
-                    <li><a href="#faq" class="nav-link tech-border">FAQ</a></li>
-                    <li><a href="#contact" class="nav-link tech-border">Contato</a></li>
-                    <li><a href="#team" class="nav-link tech-border">Equipe</a></li>
-                    <li><a href="#login" class="nav-link tech-border">Login</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+
