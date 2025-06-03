@@ -4,7 +4,7 @@
 
 # SafeMesh - Rede Mesh para Emergências
 
-## 🎯 Solução  
+## 👨‍💻 Solução  
 A **SafeMesh** oferece uma rede de comunicação alternativa durante enchentes através de:  
 - Conexão mesh entre dispositivos sem infraestrutura tradicional  
 - Guias práticos de preparação para emergências  
@@ -67,7 +67,7 @@ Nickolas Davi | Desenvolveu a seção de estratégias e validação de formulár
 Rafael Carvalho | Criou o design responsivo e cards de recursos  
 Ruan Luca | Implementou o FAQ accordion e integração de links sociais
 
-# Nossa logo 
+# 🏷️ Nossa logo 
 
 <head>
     <meta charset="UTF-8">
