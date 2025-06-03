@@ -54,15 +54,11 @@ A **SafeMesh** oferece uma rede de comunicação alternativa durante enchentes a
 ---
 
 # 📝 Detalhes Técnicos
-Paleta de Cores:
-
-Primária: #1a73e8 (azul)
-
-Secundária: #0d47a1 (azul escuro)
-
-Fontes: Segoe UI, system-ui, sans-serif
-
-Breakpoints: 600px, 768px, 992px, 1300px
+**Breakpoints Responsivos:**
+- `600px`: Ajustes para mobile (menu hambúrguer, cards em coluna única)
+- `768px`: Layout para tablets
+- `992px`: Desktop médio
+- `1300px`: Desktop grande (hero section ampliada)
 
 # 📌 Contribuições
 Integrante | Tarefas Principais
