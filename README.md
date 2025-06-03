@@ -49,7 +49,7 @@ A **SafeMesh** oferece uma rede de comunicação alternativa durante enchentes a
 --- 
 
 ## 🔗 Links Importantes  
-- **Repositório**: [link_do_repositório_safemesh.git](#)  
+- **Repositório**: https://github.com/SafeMesh/SafeMesh.git
 
 ---
 
